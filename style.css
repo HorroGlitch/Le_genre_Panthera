@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 80%;
+}
+
+header{
+    text-align: center;
+    justify-content: center;
+}
+
+body{
+    padding: 20px;
+}
+
+article{
+    display: none;
+}
+
+h2:focus~#leopard{
+    display: block;
+}
+
+h2:focus~#leopard{
+    display: block;
+}
+
+h2:focus~#leopard{
+    display: block;
+}
+
+h2:focus~#lion{
+    display: block;
+}
+
+h2:focus~#tigre{
+    display: block;
+}
